@@ -24,6 +24,8 @@ body {
 .apresentacao img {
     border: 6px solid black;
     border-radius: 100%;
+    width: 175px;
+    height: 175px;
 }
 
 .name {
@@ -66,7 +68,7 @@ body {
     font-family: 'Ubuntu', sans-serif;
     font-size: 2rem;
     padding: 10px 40px;
-    background-color: rgba(6, 124, 221, 0.336);
+    background-color: hsla(209, 100%, 26%, 0.336);
     display: inline-block;
     border: 1px solid black;
     border-radius: 12px;
@@ -199,12 +201,6 @@ body {
 }
 
 @media (min-width: 320px) and (max-width: 424px) {
-    .apresentacao img {
-        width: 175px;
-        height: 175px;
-
-    }
-
     .item a {
         font-size: 1.2rem;
 
@@ -251,12 +247,6 @@ body {
 }
 
 @media (min-width: 425px) and (max-width:767px) {
-    .apresentacao img {
-        width: 175px;
-        height: 175px;
-
-    }
-
     .item a {
         font-size: 1.2rem;
 
@@ -302,13 +292,6 @@ body {
 }
 
 @media (min-width: 768px) and (max-width: 1023px) {
-    .apresentacao img {
-        width: 175px;
-        height: 175px;
-
-    }
-
-
     .item a {
         font-size: 1.2rem;
 
@@ -354,14 +337,7 @@ body {
 }
 
 @media (min-width: 1024px) and (max-width:1439px) {
-    .apresentacao img {
-        width: 175px;
-        height: 175px;
-    }
-
     .tag p {
         font-size: 1.2rem;
     }
-
-
 }
