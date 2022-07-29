@@ -1,4 +1,4 @@
-# Clone Spotify Antigo
+# Meus Links e Contatos
 O projeto é uma página de links das minhas redes sociais, portfólio e dos meus contatos 
 
 ## Tecnologias utilizadas
