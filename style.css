@@ -187,6 +187,10 @@ body {
     background-color: #FFF;
 }
 
+.discord .icon, .gmail .icon{
+    cursor:auto;
+}
+
 .footer {
     display: flex;
     flex-direction: column;
