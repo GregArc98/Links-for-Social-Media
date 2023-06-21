@@ -1,4 +1,4 @@
-# My Links and Contacts
+# Social Networks and Contacts
 The project is a page with links to my social networks, contacts and portfolio
 
 ## Technologies
