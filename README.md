@@ -1,8 +1,13 @@
-# Meus Links e Contatos
-O projeto é uma página de links das minhas redes sociais, portfólio e dos meus contatos 
+# My Links and Contacts
+The project is a page with links to my social networks, contacts and portfolio
 
-## Tecnologias utilizadas
-Front-end: HTML e CSS
+## Technologies
+* HTML
+* CSS
 
-## Projeto no ar
-Link: https://links-contact.netlify.app/
+## Softwares
+* VS Code
+
+## Hosted Project
+**[Links and Contacts](https://links-contact.netlify.app/)**
+
