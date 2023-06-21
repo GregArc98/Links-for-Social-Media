@@ -1,3 +1,5 @@
+/* Fonts used in the project*/ 
+
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&family=PT+Sans&family=Roboto&family=Saira:ital,wght@1,300&family=Ubuntu&display=swap');
 
 * {
@@ -11,7 +13,7 @@ body {
     width: 100%;
 }
 
-.apresentacao {
+.presentation {
     width: 100%;
     display: flex;
     flex-flow: column wrap;
@@ -21,7 +23,7 @@ body {
     padding-bottom: 10px;
 }
 
-.apresentacao img {
+.presentation img {
     border: 6px solid black;
     border-radius: 100%;
     width: 175px;
@@ -39,9 +41,6 @@ body {
     text-align: center;
     font-family: 'Roboto', sans-serif;
     padding: 5px;
-
-
-
 }
 
 .profession {
@@ -75,6 +74,13 @@ body {
     margin: 10px auto;
 }
 
+.icon {
+    width: 30px;
+    height: 30px;
+    flex: 5%;
+    cursor: pointer;
+}
+
 .links {
     display: flex;
     flex-flow: column wrap;
@@ -94,12 +100,6 @@ body {
 
 }
 
-.icon {
-    width: 30px;
-    height: 30px;
-    flex: 5%;
-    cursor: pointer;
-}
 
 .item a {
     font-size: 1.5rem;
@@ -149,11 +149,7 @@ body {
     border-radius: 12px;
 }
 
-.tag,
-.item,
-.contacts .title,
-.name,
-.profession {
+.tag, .item, .contacts .title, .name, .profession {
     box-shadow: 5px 5px 0px rgba(0, 0, 0, 50%);
 }
 
@@ -203,6 +199,14 @@ body {
     font-size: 1.2rem;
     font-family: 'PT Sans', sans-serif;
 }
+
+.footer a{
+    text-decoration: none;
+    color: white;
+}
+
+
+/* Responsive section */
 
 @media (min-width: 320px) and (max-width: 424px) {
     .item a {
